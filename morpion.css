@@ -1,0 +1,28 @@
+div.Intro {background-color: aqua;
+}
+div#Fin {text-align:center;
+    font-size: x-large;
+    background-color: greenyellow;
+}
+
+.Intro {position: relative;
+text-align:center;
+}
+.gauche,.droite,.centre {
+    position:absolute;
+    width: 8%;
+    height: 130px;
+    text-align: center;
+}
+p {font-size: xx-large;}
+
+.gauche {background-color:blueviolet;
+margin-left: 34%;}
+.centre {background-color:orange;
+    margin-left: 45%;}
+.droite {background-color:red;
+   margin-left: 56%;}
+
+.haut {margin-top: 50px;}
+.milieu {margin-top: 230px;}
+.bas {margin-top: 410px;}
